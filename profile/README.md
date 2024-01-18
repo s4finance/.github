@@ -1,12 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
+Welcome to our tech hub, where we're constantly innovating and refining our app to make it an indispensable tool for you.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Reporting bugs or sending suggestions
+As part of our ongoing effort to enhance your experience, we're always open to feedback and suggestions. If you encounter any bugs or have ideas for new features, please share them with us by [opening an issue](https://github.com/backtest-llc/app/issues/new). Your contributions are invaluable in helping us build the best possible backtesting app.
